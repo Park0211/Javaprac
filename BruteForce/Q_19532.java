@@ -1,6 +1,5 @@
 package BruteForce;
 
-// 모르겠음!!!!!
 import java.util.Scanner;
 
 public class Q_19532 {
